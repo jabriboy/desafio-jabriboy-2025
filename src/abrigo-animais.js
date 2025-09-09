@@ -1,4 +1,4 @@
-export default class AbrigoAnimais {
+class AbrigoAnimais {
 	constructor() {
 		this.animais = [
 			{ nome: "Rex", raca: "CÃO", brinquedos: ["RATO", "BOLA"] },
@@ -98,3 +98,5 @@ export default class AbrigoAnimais {
 		return true
 	}
 }
+
+export { AbrigoAnimais as AbrigoAnimais }

@@ -1,4 +1,4 @@
-import AbrigoAnimais from "./abrigo-animais";
+import { AbrigoAnimais } from "./abrigo-animais";
 
 describe('Abrigo de Animais', () => {
 
